@@ -1,7 +1,0 @@
-id;name;iso;currency;icon;is_published;position;default_language;hour_system
-1;France;FR;EUR;????;1;0;fr;24
-2;Belgique;BE;EUR;????;1;2;fr;24
-3;Royaume-Uni;GB;GBP;????;1;5;en;12
-4;Pays-Bas;NL;EUR;????;1;4;en;24
-5;Irelande;IE;EUR;????;1;3;en;24
-6;USA;US;USD;????;0;1;en;12
